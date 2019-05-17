@@ -1,0 +1,8 @@
+{
+	"name": "com.magicleap.systemunitytools",
+	"version": "0.0.1",
+	"displayName": "System Unity Tools",
+	"description": "Provides complete Test Suite Framework with Task System",
+	"lockfileVersion": 1,
+	"scope": "/Assets/SystemUnityTools"
+}
