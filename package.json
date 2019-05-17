@@ -3,22 +3,6 @@
 	"version": "0.0.2",
 	"displayName": "System Unity Tools",
 	"description": "Provides complete Test Suite Framework with Task System",
-	"lockfileVersion": 1,
-	"files": [
-  "/LICENSE",
-  "/LICENSE.meta",
-  "/README.md",
-  "/README.md.meta",
-  "/package.json",
-  "/package.json.meta",
-  "/Source",
-  "/Source.meta",
-  "/UnityAtoms.asmdef",
-  "/UnityAtoms.asmdef.meta",
-	"/ProjectSettings.meta",
-	"/Assets.meta",
-	"/Packages.meta",
-	"/Logs.meta"
-		
-    ]
+	"lockfileVersion": 1
+	
 }
