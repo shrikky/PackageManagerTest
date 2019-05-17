@@ -3,6 +3,13 @@
 	"version": "0.0.2",
 	"displayName": "System Unity Tools",
 	"description": "Provides complete Test Suite Framework with Task System",
-	"lockfileVersion": 1
+	"lockfileVersion": 1,
+	 "files": 
+	[
+        "/SUTFramework",
+        "/SUTFramework.meta", 
+	"/package.json",
+        "/package.json.meta"
+    	]
 	
 }
